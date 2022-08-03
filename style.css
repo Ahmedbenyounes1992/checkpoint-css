@@ -1,0 +1,54 @@
+li {
+    display: inline;
+    padding: 5px;
+    margin: 10px;
+}
+nav {
+    background-color: lightpink;
+    height: 75px;
+}
+body {
+    font-family: roboto ;
+}
+h2{
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    margin: 20px,0px;
+    text-align: center;
+}
+#about{
+    background-color: lightgreen;
+    padding: 15px,5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+#resume{
+    background-color: lightblue;
+    height: 200px;
+    word-spacing: 4px;
+    text-align: justify;
+    font-size: larger;
+}
+.footer{
+    background-color: lightgrey;
+}
+table{
+    width: 100%;
+}
+table th{
+    background-color: lightsalmon;
+}
+tr,th,td{
+    padding: 5px;
+    text-align: center;
+}
+.centred{
+    text-align: center;
+    color: blue;
+    font-size: x-large;
+}
+.vid{
+margin-left: 400px;
+}
